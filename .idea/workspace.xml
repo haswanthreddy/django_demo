@@ -5,23 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85ada058-8323-4f7f-9bb7-867afb62d454" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/djangoProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject1/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject1/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject1/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject1/views/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject1/views/say_hello.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject1/views/say_hello_with_name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject1/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject1/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProject1/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +96,9 @@
       <option name="presentableId" value="Default" />
       <updated>1715882281290</updated>
       <workItem from="1715882292191" duration="6290000" />
-      <workItem from="1715916932650" duration="1787000" />
+      <workItem from="1715916932650" duration="7529000" />
+      <workItem from="1716056928856" duration="2600000" />
+      <workItem from="1716141053128" duration="3121000" />
     </task>
     <servers />
   </component>
